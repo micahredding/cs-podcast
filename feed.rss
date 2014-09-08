@@ -7,7 +7,7 @@
     <itunes:subtitle>Demystifying tech decision-making</itunes:subtitle>
     <itunes:summary>Two developers and a human being discuss the difficult world of technology, business, and building software that matters.</itunes:summary>
     <description>Two developers and a human being discuss the difficult world of technology, business, and building software that matters.</description>
-    <itunes:image href=""/>
+    <itunes:image href="http://podcast.centresource.com/logo.jpg"/>
     <language>en-us</language>
     <copyright>Copyright © 2014. All rights reserved.</copyright>
     <itunes:author>Centresource Interactive Agency</itunes:author>
@@ -29,7 +29,7 @@
       <pubDate>Mon, 8 Sep 2014 12:00:00 +0000</pubDate>
       <itunes:duration>00:24:36</itunes:duration>
       <itunes:author>Micah Redding, Ann Howard, Jeremy Holland</itunes:author>
-      <itunes:image href=""/>
+      <itunes:image href="http://podcast.centresource.com/logo.jpg"/>
       <itunes:keywords>technology, software development, startups, tech culture, apps</itunes:keywords>
     </item>
   </channel>
