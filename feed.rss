@@ -25,7 +25,7 @@
       <itunes:summary>You've got deadlines, budget constraints, and incredible ambitions. Do you build your software on a platform that's already out there? Or do you develop everything from scratch? That choice plays an important role in the future of your company, and we'll help you understand the questions involved.</itunes:summary>
       <description>You've got deadlines, budget constraints, and incredible ambitions. Do you build your software on a platform that's already out there? Or do you develop everything from scratch? That choice plays an important role in the future of your company, and we'll help you understand the questions involved.</description>
       <content:encoded></content:encoded>
-      <enclosure url="http://cs-podcast.s3-website-us-east-1.amazonaws.com/001_platforms_vs_custom_dev.mp3" length="35440249" type="audio/mpeg"/>
+      <enclosure url="http://cs-podcast.s3-website-us-east-1.amazonaws.com/media/001_platforms_vs_custom_dev.mp3" length="35440249" type="audio/mpeg"/>
       <pubDate>Mon, 8 Sep 2014 12:00:00 +0000</pubDate>
       <itunes:duration>00:24:36</itunes:duration>
       <itunes:author>Micah Redding, Ann Howard, Jeremy Holland</itunes:author>
